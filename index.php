@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Testando Vercel</title>
 </head>
 <body>
-    <h1>
-        Hello World
-    </h1>
+    <p>TESTANDO VERCEL</p>
 </body>
 </html>
