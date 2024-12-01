@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>TESTE 3</h1>
+    <?php
+        echo "OLA MUNDO EM PHP";
+    ?>
 </body>
 </html>
